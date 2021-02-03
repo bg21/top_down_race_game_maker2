@@ -15,6 +15,10 @@ switch(proximoCarro){
 			instance_create_layer(315, -150, "instances", Object3);
 		}
 		
+		if(proximoLado == 3){
+			instance_create_layer(choose(160, 235, 315), -150, "instances", choose(obj_cone, obj_mancha));
+		}
+		
 		break;
 		
 		
@@ -28,6 +32,10 @@ switch(proximoCarro){
 			instance_create_layer(315, -150, "instances", Object4);
 		}
 		
+		if(proximoLado == 3){
+			instance_create_layer(choose(160, 235, 315), -150, "instances", choose(obj_cone, obj_mancha));
+		}
+		
 		break
 		
 		
@@ -39,6 +47,10 @@ switch(proximoCarro){
 		
 		if(proximoLado == 2){
 			instance_create_layer(315, -150, "instances", Object5);
+		}
+		
+		if(proximoLado == 3){
+			instance_create_layer(choose(160, 235, 315), -150, "instances", choose(obj_cone, obj_mancha));
 		}
 		
 		break;
