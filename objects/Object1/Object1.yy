@@ -22,6 +22,11 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"Object1","path":"objects/Object1/Object1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Object3","path":"objects/Object3/Object3.yy",},"parent":{"name":"Object1","path":"objects/Object1/Object1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Object4","path":"objects/Object4/Object4.yy",},"parent":{"name":"Object1","path":"objects/Object1/Object1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Object5","path":"objects/Object5/Object5.yy",},"parent":{"name":"Object1","path":"objects/Object1/Object1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_mancha","path":"objects/obj_mancha/obj_mancha.yy",},"parent":{"name":"Object1","path":"objects/Object1/Object1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_cone","path":"objects/obj_cone/obj_cone.yy",},"parent":{"name":"Object1","path":"objects/Object1/Object1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
