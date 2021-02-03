@@ -10,8 +10,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_crash.ogg",
-  "duration": 2.005,
+  "soundFile": "snd_crash.wav",
+  "duration": 4.372188,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

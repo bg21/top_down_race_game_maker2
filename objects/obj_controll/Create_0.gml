@@ -3,5 +3,6 @@
 global.mouseX = 0;
 global.mouseClick = 0;
 randomize();
+audio_play_sound(snd_fundo, 2, false);
 alarm[0] = 120;
 
