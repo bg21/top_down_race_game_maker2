@@ -3,3 +3,4 @@
 
 
 carros();
+alarm[0] = 60;
