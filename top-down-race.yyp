@@ -15,6 +15,7 @@
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":7,},
     {"id":{"name":"obj_cone","path":"objects/obj_cone/obj_cone.yy",},"order":5,},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
+    {"id":{"name":"fnt_info","path":"fonts/fnt_info/fnt_info.yy",},"order":0,},
     {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},"order":3,},
     {"id":{"name":"spr_mancha","path":"sprites/spr_mancha/spr_mancha.yy",},"order":6,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},

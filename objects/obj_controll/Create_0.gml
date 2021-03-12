@@ -6,3 +6,6 @@ randomize();
 audio_play_sound(snd_fundo, 2, false);
 alarm[0] = 120;
 
+metrospercorrido = 0;
+metrosfaltantes = 2;
+
