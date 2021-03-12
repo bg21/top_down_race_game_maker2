@@ -23,6 +23,7 @@
     {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},"order":3,},
     {"id":{"name":"spr_mancha","path":"sprites/spr_mancha/spr_mancha.yy",},"order":6,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
+    {"id":{"name":"obj_controll_fases","path":"objects/obj_controll_fases/obj_controll_fases.yy",},"order":9,},
     {"id":{"name":"obj_controll","path":"objects/obj_controll/obj_controll.yy",},"order":1,},
     {"id":{"name":"mudalado","path":"scripts/mudalado/mudalado.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
@@ -45,8 +46,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

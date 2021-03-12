@@ -14,4 +14,5 @@ if(metrospercorrido > 1000 and metrospercorrido < 2000){
 	metrosfaltantes = 2;
 }else if(metrospercorrido > 4000){
 	metrosfaltantes = 0;
+	global.passafase = true;
 }
