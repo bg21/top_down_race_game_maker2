@@ -6,6 +6,9 @@ global.mouseX = mouse_x;
 
 global.mouseClick = mouse_check_button(mb_left);
 
+global.farol = mouse_check_button(mb_right);
+
+
 metrospercorrido++;
 
 if(metrospercorrido > 1000 and metrospercorrido < 2000){
